@@ -25,5 +25,8 @@ Requirements:
 <li>..thats it !! :)
 </ul>
 
-For any queries regarding the project or starting OS development, drop a mail :)
-Screenshots
+For any queries regarding the project or starting OS development, drop a mail :) <br>
+
+<h3>Screenshots</h3>
+
+
