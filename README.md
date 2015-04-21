@@ -22,7 +22,7 @@ The following tutorials/projects are very helpful for anyone to start off with o
 Requirements:
 <ul>
 <li>NASM
-<li>..thats it !! :)
+<li>Virtual BOX for testing
 </ul>
 
 For any queries regarding the project or starting OS development, drop a mail :) <br>
