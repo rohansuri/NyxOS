@@ -28,5 +28,7 @@ Requirements:
 For any queries regarding the project or starting OS development, drop a mail :) <br>
 
 <h3>Screenshots</h3>
-
+![Alt text](https://github.com/rohansuri/NyxOS/blob/master/capture1.png )
+![Alt text](https://github.com/rohansuri/NyxOS/blob/master/capture2.png )
+![Alt text](https://github.com/rohansuri/NyxOS/blob/master/capture3.png )
 
